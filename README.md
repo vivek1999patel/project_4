@@ -29,7 +29,7 @@ Access the app through the link below:
 ## Features
 
 ### Home Page
-<img src='https://i.imgur.com/SAkC3vA.png'>
+<img src='https://i.imgur.com/owDUEaE.png'>
 
 ### Details Page
 <img src='https://i.imgur.com/Pfx0DEE.png'>
