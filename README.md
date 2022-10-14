@@ -40,7 +40,7 @@ The Mapbox Geocoding API allows users to do forward geocoding operations. Forwar
 <img src='https://i.imgur.com/ViIAAaW.png'>
 
 ### Listing and Favourite:
-Rental Bravo allows its users to upload and delete their own posts, while also allowing users to favourite or unfavourite listings on the wedbiste.
+Rental Bravo allows its users to upload and delete their own posts, while also allowing users to favourite or unfavourite listings on the wedbsite.
 <table>
   <tr>
     <td>My Post Page</td>
