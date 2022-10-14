@@ -18,6 +18,7 @@ Please take a look at Rental Braco and enjoy the features available!
 - <b>Node</b>
 - <b>React-Bootstrap</b>
 - <b>Amazon Web Services (AWS S3)</b>
+- <b>JWT and Bcrypt</b>
 
 ## Getting Started
 
