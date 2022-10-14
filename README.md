@@ -35,7 +35,7 @@ Access the app through the link below:
 
 ### MapBox Geocoding API:
 
-The Mapbox Geocoding API allows users to do forward geocoding operations. Forward Geocoding takes text in the form of an address or place and converts it to geographic coordinates (latitude/longitude). This Api allows us to auto-load the address when searching for listing in specific locations. 
+The Mapbox Geocoding API allows users to do forward geocoding operations. Forward Geocoding takes text in the form of an address or place and converts it to geographic coordinates (latitude/longitude). This Api allows us to auto-load the address when inputing it into the street address while adding the new listing.
 
 <img src='https://i.imgur.com/ViIAAaW.png'>
 
