@@ -16,7 +16,7 @@ Please take a look at Rental Braco and enjoy the features available!
 - <b>Express</b>
 - <b>React</b>
 - <b>Node</b>
-- <b>Bootstrap</b>
+- <b>React-Bootstrap</b>
 - <b>Amazon Web Services (AWS S3)</b>
 
 ## Getting Started
