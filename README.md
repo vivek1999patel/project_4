@@ -27,8 +27,8 @@ Access the app through the link below:
 
 ## Features
 
-### Rental Bravo
-<img src='https://i.imgur.com/4FSR9j0.png'>
+### Home Page
+<img src='https://i.imgur.com/SAkC3vA.png'>
 
 ### Details Page
 <img src='https://i.imgur.com/Pfx0DEE.png'>
